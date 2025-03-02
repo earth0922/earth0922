@@ -1,4 +1,4 @@
-## Hi there 👋
+自己紹介
 
 <!--
 **earth0922/earth0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
